@@ -11,4 +11,9 @@ nav {
 main {
     background-color: #FFF1F9;
 }
-h1 {}
+h1 {
+    color: #DDA0DD;
+}
+h2 {
+    color: #DA70D6;
+}
